@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352111075138",
+    "project_id": "myprotfolio-a0b51",
+    "storage_bucket": "myprotfolio-a0b51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352111075138:android:da9e7960006e1a378c32db",
+        "android_client_info": {
+          "package_name": "com.example.booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZde0dFPtnWo7rrB-FasrfMADRBCjg3Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352111075138:android:0137259aa56d24fc8c32db",
+        "android_client_info": {
+          "package_name": "com.example.my_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZde0dFPtnWo7rrB-FasrfMADRBCjg3Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
